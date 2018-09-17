@@ -1,0 +1,1253 @@
+fileFormatVersion: 2
+guid: bac8581a61ea544408d7d777cd67f64c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Windshield
+    21300002: Windshield_0
+    21300004: Windshield_1
+    21300006: Windshield_2
+    21300008: Windshield_3
+    21300010: Windshield_4
+    21300012: Windshield_5
+    21300014: Windshield_6
+    21300016: Windshield_7
+    21300018: Windshield_8
+    21300020: Windshield_9
+    21300022: Windshield_10
+    21300024: Windshield_11
+    21300026: Windshield_12
+    21300028: Windshield_13
+    21300030: Windshield_14
+    21300032: Windshield_15
+    21300034: Windshield_16
+    21300036: Windshield_17
+    21300038: Windshield_18
+    21300040: Windshield_19
+    21300042: Windshield_20
+    21300044: Windshield_21
+    21300046: Windshield_22
+    21300048: Windshield_23
+    21300050: Windshield_24
+    21300052: Windshield_25
+    21300054: Windshield_26
+    21300056: Windshield_27
+    21300058: Windshield_28
+    21300060: Windshield_29
+    21300062: Windshield_30
+    21300064: Windshield_31
+    21300066: Windshield_32
+    21300068: Windshield_33
+    21300070: Windshield_34
+    21300072: Windshield_35
+    21300074: Windshield_36
+    21300076: Windshield_37
+    21300078: Windshield_38
+    21300080: Windshield_39
+    21300082: Windshield_40
+    21300084: Windshield_41
+    21300086: Windshield_42
+    21300088: Windshield_43
+    21300090: Windshield_44
+    21300092: Windshield_45
+    21300094: Windshield_46
+    21300096: Windshield_47
+    21300098: Windshield_48
+    21300100: Windshield_49
+    21300102: Windshield_50
+    21300104: Windshield_51
+    21300106: Windshield_52
+    21300108: Windshield_53
+    21300110: Windshield_54
+    21300112: Windshield_55
+    21300114: Windshield_56
+    21300116: Windshield_57
+    21300118: Windshield_58
+    21300120: Windshield_59
+    21300122: Windshield_60
+    21300124: Windshield_61
+    21300126: Windshield_62
+    21300128: Windshield_63
+    21300130: Windshield_64
+    21300132: Windshield_65
+    21300134: Windshield_66
+    21300136: Windshield_67
+    21300138: Windshield_68
+    21300140: Windshield_69
+    21300142: Windshield_70
+    21300144: Windshield_71
+    21300146: Windshield_72
+    21300148: Windshield_73
+    21300150: Windshield_74
+    21300152: Windshield_75
+    21300154: Windshield_76
+    21300156: Windshield_77
+    21300158: Windshield_78
+    21300160: Windshield_79
+    21300162: Windshield_80
+    21300164: Windshield_81
+    21300166: Windshield_82
+    21300168: Windshield_83
+    21300170: Windshield_84
+    21300172: Windshield_85
+    21300174: Windshield_86
+    21300176: Windshield_87
+    21300178: Windshield_88
+    21300180: Windshield_89
+    21300182: Windshield_90
+    21300184: Windshield_91
+    21300186: Windshield_92
+    21300188: Windshield_93
+    21300190: Windshield_94
+    21300192: Windshield_95
+    21300194: Windshield_96
+    21300196: Windshield_97
+    21300198: Windshield_98
+    21300200: Windshield_99
+    21300202: Windshield_100
+    21300204: Windshield_101
+    21300206: Windshield_102
+    21300208: Windshield_103
+    21300210: Windshield_104
+    21300212: Windshield_105
+    21300214: Windshield_106
+    21300216: Windshield_107
+    21300218: Windshield_108
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Windshield_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1891
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1891
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1891
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1891
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_4
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1891
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_5
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1891
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_6
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1891
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_7
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1891
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_8
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1891
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1734
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1734
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1734
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_12
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1734
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_13
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1734
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_14
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1734
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_15
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1734
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_16
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1734
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_17
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1734
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1577
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1577
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_20
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1577
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_21
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1577
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_22
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1577
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_23
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1577
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_24
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1577
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_25
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1577
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_26
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1577
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1420
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1420
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_29
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1420
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_30
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1420
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_31
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1420
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_32
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1420
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_33
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1420
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_34
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1420
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_35
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1420
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1263
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_37
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1263
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_38
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1263
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_39
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1263
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_40
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1263
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_41
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1263
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_42
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1263
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_43
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1263
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_44
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1263
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1106
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1106
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_47
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1106
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_48
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1106
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_49
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1106
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_50
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1106
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_51
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1106
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_52
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1106
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_53
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1106
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 949
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 949
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_56
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 949
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_57
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 949
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_58
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 949
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_59
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 949
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_60
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 949
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_61
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 949
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_62
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 949
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_64
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 792
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_65
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 792
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_66
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 792
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_67
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 792
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_68
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 792
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_69
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 792
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_70
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 792
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_71
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 792
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 635
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_73
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 635
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_74
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 635
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_75
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 635
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_76
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 635
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_77
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 635
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_78
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 635
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_79
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 635
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_80
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 635
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_82
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 478
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_83
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 478
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_84
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 478
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_85
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 478
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_86
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 478
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_87
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 478
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_88
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 478
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_89
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 478
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_91
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 321
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_92
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 321
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_93
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 321
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_94
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 321
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_95
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 321
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_96
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 321
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_97
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 321
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_98
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 321
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_100
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 164
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_101
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 164
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_102
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 164
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_103
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 164
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_104
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 164
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_105
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 164
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_106
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 164
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_107
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 164
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Windshield_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 209
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

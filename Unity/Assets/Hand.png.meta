@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: 9ec64adfe2bdb9c4994274c7c2dfa070
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hand
+    21300002: Hand_0
+    21300004: Hand_1
+    21300006: Hand_2
+    21300008: Hand_3
+    21300010: Hand_4
+    21300012: Hand_5
+    21300014: Hand_6
+    21300016: Hand_7
+    21300018: Hand_8
+    21300020: Hand_9
+    21300022: Hand_10
+    21300024: Hand_11
+    21300026: Hand_12
+    21300028: Hand_13
+    21300030: Hand_14
+    21300032: Hand_15
+    21300034: Hand_16
+    21300036: Hand_17
+    21300038: Hand_18
+    21300040: Hand_19
+    21300042: Hand_20
+    21300044: Hand_21
+    21300046: Hand_22
+    21300048: Hand_23
+    21300050: Hand_24
+    21300052: Hand_25
+    21300054: Hand_26
+    21300056: Hand_27
+    21300058: Hand_28
+    21300060: Hand_29
+    21300062: Hand_30
+    21300064: Hand_31
+    21300066: Hand_32
+    21300068: Hand_33
+    21300070: Hand_34
+    21300072: Hand_35
+    21300074: Hand_36
+    21300076: Hand_37
+    21300078: Hand_38
+    21300080: Hand_39
+    21300082: Hand_40
+    21300084: Hand_41
+    21300086: Hand_42
+    21300088: Hand_43
+    21300090: Hand_44
+    21300092: Hand_45
+    21300094: Hand_46
+    21300096: Hand_47
+    21300098: Hand_48
+    21300100: Hand_49
+    21300102: Hand_50
+    21300104: Hand_51
+    21300106: Hand_52
+    21300108: Hand_53
+    21300110: Hand_54
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 1349, z: 115, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hand_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3706
+        width: 208
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3706
+        width: 207
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3706
+        width: 206
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_3
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3707
+        width: 206
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3706
+        width: 206
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_5
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 3707
+        width: 204
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_6
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3707
+        width: 203
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_7
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 3707
+        width: 203
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_8
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 3707
+        width: 202
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3317
+        width: 203
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 3317
+        width: 202
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3317
+        width: 201
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_12
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 3318
+        width: 201
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_13
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 3318
+        width: 201
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_14
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 3318
+        width: 200
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_15
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 3318
+        width: 200
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_16
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 3318
+        width: 199
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_17
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 3318
+        width: 199
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2928
+        width: 199
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2928
+        width: 199
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_20
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2928
+        width: 199
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_21
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2928
+        width: 199
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_22
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2928
+        width: 198
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_23
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2928
+        width: 198
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_24
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2928
+        width: 198
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_25
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 2928
+        width: 198
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_26
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 2928
+        width: 198
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2538
+        width: 198
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2538
+        width: 198
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_29
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2538
+        width: 198
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_30
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2538
+        width: 198
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_31
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2538
+        width: 198
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_32
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2538
+        width: 199
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_33
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2538
+        width: 199
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_34
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 2538
+        width: 199
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_35
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 2538
+        width: 199
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2148
+        width: 199
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_37
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2148
+        width: 200
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_38
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2148
+        width: 200
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_39
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2148
+        width: 200
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_40
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 2148
+        width: 200
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_41
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2147
+        width: 201
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_42
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 2147
+        width: 201
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_43
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 2147
+        width: 201
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_44
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 2147
+        width: 202
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1757
+        width: 203
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_46
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1757
+        width: 203
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_47
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1757
+        width: 204
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_48
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1757
+        width: 205
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_49
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1757
+        width: 205
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_50
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1757
+        width: 205
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_51
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1756
+        width: 206
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_52
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1756
+        width: 207
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_53
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1756
+        width: 208
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hand_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1366
+        width: 208
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

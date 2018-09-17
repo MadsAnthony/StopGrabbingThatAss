@@ -1,0 +1,714 @@
+fileFormatVersion: 2
+guid: 9952040cd12c7b44ba9cc9b89c5790f4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BoxingGlove
+    21300002: BoxingGlove_0
+    21300004: BoxingGlove_1
+    21300006: BoxingGlove_2
+    21300008: BoxingGlove_3
+    21300010: BoxingGlove_4
+    21300012: BoxingGlove_5
+    21300014: BoxingGlove_6
+    21300016: BoxingGlove_7
+    21300018: BoxingGlove_8
+    21300020: BoxingGlove_9
+    21300022: BoxingGlove_10
+    21300024: BoxingGlove_11
+    21300026: BoxingGlove_12
+    21300028: BoxingGlove_13
+    21300030: BoxingGlove_14
+    21300032: BoxingGlove_15
+    21300034: BoxingGlove_16
+    21300036: BoxingGlove_17
+    21300038: BoxingGlove_18
+    21300040: BoxingGlove_19
+    21300042: BoxingGlove_20
+    21300044: BoxingGlove_21
+    21300046: BoxingGlove_22
+    21300048: BoxingGlove_23
+    21300050: BoxingGlove_24
+    21300052: BoxingGlove_25
+    21300054: BoxingGlove_26
+    21300056: BoxingGlove_27
+    21300058: BoxingGlove_28
+    21300060: BoxingGlove_29
+    21300062: BoxingGlove_30
+    21300064: BoxingGlove_31
+    21300066: BoxingGlove_32
+    21300068: BoxingGlove_33
+    21300070: BoxingGlove_34
+    21300072: BoxingGlove_35
+    21300074: BoxingGlove_36
+    21300076: BoxingGlove_37
+    21300078: BoxingGlove_38
+    21300080: BoxingGlove_39
+    21300082: BoxingGlove_40
+    21300084: BoxingGlove_41
+    21300086: BoxingGlove_42
+    21300088: BoxingGlove_43
+    21300090: BoxingGlove_44
+    21300092: BoxingGlove_45
+    21300094: BoxingGlove_46
+    21300096: BoxingGlove_47
+    21300098: BoxingGlove_48
+    21300100: BoxingGlove_49
+    21300102: BoxingGlove_50
+    21300104: BoxingGlove_51
+    21300106: BoxingGlove_52
+    21300108: BoxingGlove_53
+    21300110: BoxingGlove_54
+    21300112: BoxingGlove_55
+    21300114: BoxingGlove_56
+    21300116: BoxingGlove_57
+    21300118: BoxingGlove_58
+    21300120: BoxingGlove_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BoxingGlove_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1846
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1846
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1846
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1846
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1846
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_5
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1846
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1642
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1642
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1642
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1642
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_10
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1642
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_11
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1642
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1438
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1438
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1438
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1438
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_16
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1438
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_17
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1438
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1234
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1234
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1234
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_21
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1234
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_22
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1234
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_23
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1234
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1030
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1030
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1030
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1030
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_28
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1030
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_29
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1030
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 826
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_32
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 826
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_33
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 826
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_34
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 826
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_35
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 826
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 622
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_37
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 622
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_38
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 622
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_39
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 622
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_40
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 622
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_41
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 622
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_43
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 418
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 418
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_45
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 418
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_46
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 418
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_47
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 418
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_49
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 214
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_50
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 214
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_51
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 214
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_52
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 214
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_53
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 214
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_55
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 10
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_56
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 10
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_57
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 10
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_58
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 10
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingGlove_59
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 10
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

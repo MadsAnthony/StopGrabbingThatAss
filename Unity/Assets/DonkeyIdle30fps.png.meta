@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 310db0bd684aa904899cd1c52196ed6c
+timeCreated: 1439304214
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ass Donkey2 instance 10000
+    21300002: Ass Donkey2 instance 10001
+    21300004: Ass Donkey2 instance 10002
+    21300006: Ass Donkey2 instance 10003
+    21300008: Ass Donkey2 instance 10004
+    21300010: Ass Donkey2 instance 10005
+    21300012: Ass Donkey2 instance 10006
+    21300014: Ass Donkey2 instance 10007
+    21300016: Ass Donkey2 instance 10008
+    21300018: Ass Donkey2 instance 10009
+    21300020: Ass Donkey2 instance 10010
+    21300022: Ass Donkey2 instance 10011
+    21300024: Ass Donkey2 instance 10012
+    21300026: Ass Donkey2 instance 10013
+    21300028: Ass Donkey2 instance 10014
+    21300030: Ass Donkey2 instance 10015
+    21300032: Ass Donkey2 instance 10016
+    21300034: Ass Donkey2 instance 10017
+    21300036: Ass Donkey2 instance 10018
+    21300038: Ass Donkey2 instance 10019
+    21300040: Ass Donkey2 instance 10020
+    21300042: Ass Donkey2 instance 10021
+    21300044: Ass Donkey2 instance 10022
+    21300046: Ass Donkey2 instance 10023
+    21300048: Ass Donkey2 instance 10024
+    21300050: Ass Donkey2 instance 10025
+    21300052: Ass Donkey2 instance 10026
+    21300054: Ass Donkey2 instance 10027
+    21300056: Ass Donkey2 instance 10028
+    21300058: Ass Donkey2 instance 10029
+    21300060: Ass Donkey2 instance 10030
+    21300062: Ass Donkey2 instance 10031
+    21300064: Ass Donkey2 instance 10032
+    21300066: Ass Donkey2 instance 10033
+    21300068: Ass Donkey2 instance 10034
+    21300070: Ass Donkey2 instance 10035
+    21300072: Ass Donkey2 instance 10036
+    21300074: Ass Donkey2 instance 10037
+    21300076: Ass Donkey2 instance 10038
+    21300078: Ass Donkey2 instance 10039
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ass Donkey2 instance 10000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3623
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10001
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3623
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10002
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 3623
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10003
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 3623
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10004
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3623
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10005
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 3623
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10006
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 3623
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3150
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10008
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3150
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10009
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 3150
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10010
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 3150
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10011
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3150
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10012
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 3150
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10013
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 3150
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10014
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2677
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10015
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2677
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10016
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2677
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10017
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 2677
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10018
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2677
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10019
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 2677
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10020
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 2677
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10021
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2204
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10022
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2204
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10023
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2204
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10024
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 2204
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10025
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2204
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10026
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 2204
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10027
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 2204
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10028
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1731
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10029
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1731
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10030
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1731
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10031
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1731
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10032
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1731
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10033
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 1731
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10034
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 1731
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10035
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1258
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10036
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1258
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10037
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1258
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10038
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1258
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass Donkey2 instance 10039
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1258
+        width: 531
+        height: 473
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,934 @@
+fileFormatVersion: 2
+guid: 3395d67ffaaa22047955375aff726dce
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ass
+    21300002: Ass_0
+    21300004: Ass_1
+    21300006: Ass_2
+    21300008: Ass_3
+    21300010: Ass_4
+    21300012: Ass_5
+    21300014: Ass_6
+    21300016: Ass_7
+    21300018: Ass_8
+    21300020: Ass_9
+    21300022: Ass_10
+    21300024: Ass_11
+    21300026: Ass_12
+    21300028: Ass_13
+    21300030: Ass_14
+    21300032: Ass_15
+    21300034: Ass_16
+    21300036: Ass_17
+    21300038: Ass_18
+    21300040: Ass_19
+    21300042: Ass_20
+    21300044: Ass_21
+    21300046: Ass_22
+    21300048: Ass_23
+    21300050: Ass_24
+    21300052: Ass_25
+    21300054: Ass_26
+    21300056: Ass_27
+    21300058: Ass_28
+    21300060: Ass_29
+    21300062: Ass_30
+    21300064: Ass_31
+    21300066: Ass_32
+    21300068: Ass_33
+    21300070: Ass_34
+    21300072: Ass_35
+    21300074: Ass_36
+    21300076: Ass_37
+    21300078: Ass_38
+    21300080: Ass_39
+    21300082: Ass_40
+    21300084: Ass_41
+    21300086: Ass_42
+    21300088: Ass_43
+    21300090: Ass_44
+    21300092: Ass_45
+    21300094: Ass_46
+    21300096: Ass_47
+    21300098: Ass_48
+    21300100: Ass_49
+    21300102: Ass_50
+    21300104: Ass_51
+    21300106: Ass_52
+    21300108: Ass_53
+    21300110: Ass_54
+    21300112: Ass_55
+    21300114: Ass_56
+    21300116: Ass_57
+    21300118: Ass_58
+    21300120: Ass_59
+    21300122: Ass_60
+    21300124: Ass_61
+    21300126: Ass_62
+    21300128: Ass_63
+    21300130: Ass_64
+    21300132: Ass_65
+    21300134: Ass_66
+    21300136: Ass_67
+    21300138: Ass_68
+    21300140: Ass_69
+    21300142: Ass_70
+    21300144: Ass_71
+    21300146: Ass_72
+    21300148: Ass_73
+    21300150: Ass_74
+    21300152: Ass_75
+    21300154: Ass_76
+    21300156: Ass_77
+    21300158: Ass_78
+    21300160: Ass_79
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ass_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3459
+        width: 223
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 3459
+        width: 223
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 3459
+        width: 223
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_3
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3459
+        width: 223
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_4
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 3460
+        width: 223
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_5
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 3460
+        width: 223
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_6
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 3459
+        width: 223
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_7
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3459
+        width: 223
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_8
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 3459
+        width: 223
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_9
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 3460
+        width: 224
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_10
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 3459
+        width: 224
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_11
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 3460
+        width: 224
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_12
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 3460
+        width: 224
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_13
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 3460
+        width: 224
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_14
+      rect:
+        serializedVersion: 2
+        x: 3325
+        y: 3460
+        width: 224
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_15
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 3460
+        width: 225
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_16
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 3460
+        width: 225
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2822
+        width: 226
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2822
+        width: 226
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2822
+        width: 226
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_20
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2822
+        width: 226
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_21
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2822
+        width: 226
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_22
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2822
+        width: 227
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_23
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 2822
+        width: 228
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_24
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2823
+        width: 228
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_25
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 2823
+        width: 228
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_26
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 2823
+        width: 228
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_27
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 2823
+        width: 229
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_28
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 2823
+        width: 230
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_29
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 2823
+        width: 230
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_30
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2823
+        width: 231
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_31
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 2823
+        width: 231
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_32
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 2824
+        width: 231
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_33
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 2824
+        width: 232
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2186
+        width: 233
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_35
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2186
+        width: 233
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_36
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2186
+        width: 233
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_37
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2186
+        width: 235
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_38
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2186
+        width: 235
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_39
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 2186
+        width: 235
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_40
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 2186
+        width: 235
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_41
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 2186
+        width: 235
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_42
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 2186
+        width: 234
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_43
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 2186
+        width: 233
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_44
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 2186
+        width: 233
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_45
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2185
+        width: 232
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_46
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 2185
+        width: 231
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_47
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2185
+        width: 231
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_48
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 2185
+        width: 231
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_49
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 2185
+        width: 230
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_50
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 2185
+        width: 230
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1547
+        width: 229
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_52
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1547
+        width: 229
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_53
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1547
+        width: 228
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_54
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1547
+        width: 228
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_55
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1546
+        width: 228
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_56
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1546
+        width: 228
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_57
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1546
+        width: 227
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_58
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1546
+        width: 226
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_59
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1546
+        width: 226
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_60
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1546
+        width: 226
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_61
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1546
+        width: 226
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_62
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1546
+        width: 226
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_63
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 1546
+        width: 225
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_64
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 1546
+        width: 224
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_65
+      rect:
+        serializedVersion: 2
+        x: 3325
+        y: 1546
+        width: 224
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_66
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 1546
+        width: 224
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_67
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 1546
+        width: 224
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_68
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 908
+        width: 224
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_69
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 908
+        width: 224
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_70
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 908
+        width: 224
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_71
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 907
+        width: 223
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_72
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 907
+        width: 223
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_73
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 907
+        width: 223
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_74
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 908
+        width: 223
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_75
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 908
+        width: 224
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_76
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 907
+        width: 223
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_77
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 907
+        width: 223
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_78
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 907
+        width: 223
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ass_79
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 907
+        width: 223
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

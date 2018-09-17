@@ -1,0 +1,714 @@
+fileFormatVersion: 2
+guid: 8ec937a0d020b874b9fe1d12a2adbd97
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BoxingArm
+    21300002: BoxingArm_0
+    21300004: BoxingArm_1
+    21300006: BoxingArm_2
+    21300008: BoxingArm_3
+    21300010: BoxingArm_4
+    21300012: BoxingArm_5
+    21300014: BoxingArm_6
+    21300016: BoxingArm_7
+    21300018: BoxingArm_8
+    21300020: BoxingArm_9
+    21300022: BoxingArm_10
+    21300024: BoxingArm_11
+    21300026: BoxingArm_12
+    21300028: BoxingArm_13
+    21300030: BoxingArm_14
+    21300032: BoxingArm_15
+    21300034: BoxingArm_16
+    21300036: BoxingArm_17
+    21300038: BoxingArm_18
+    21300040: BoxingArm_19
+    21300042: BoxingArm_20
+    21300044: BoxingArm_21
+    21300046: BoxingArm_22
+    21300048: BoxingArm_23
+    21300050: BoxingArm_24
+    21300052: BoxingArm_25
+    21300054: BoxingArm_26
+    21300056: BoxingArm_27
+    21300058: BoxingArm_28
+    21300060: BoxingArm_29
+    21300062: BoxingArm_30
+    21300064: BoxingArm_31
+    21300066: BoxingArm_32
+    21300068: BoxingArm_33
+    21300070: BoxingArm_34
+    21300072: BoxingArm_35
+    21300074: BoxingArm_36
+    21300076: BoxingArm_37
+    21300078: BoxingArm_38
+    21300080: BoxingArm_39
+    21300082: BoxingArm_40
+    21300084: BoxingArm_41
+    21300086: BoxingArm_42
+    21300088: BoxingArm_43
+    21300090: BoxingArm_44
+    21300092: BoxingArm_45
+    21300094: BoxingArm_46
+    21300096: BoxingArm_47
+    21300098: BoxingArm_48
+    21300100: BoxingArm_49
+    21300102: BoxingArm_50
+    21300104: BoxingArm_51
+    21300106: BoxingArm_52
+    21300108: BoxingArm_53
+    21300110: BoxingArm_54
+    21300112: BoxingArm_55
+    21300114: BoxingArm_56
+    21300116: BoxingArm_57
+    21300118: BoxingArm_58
+    21300120: BoxingArm_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BoxingArm_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1800
+        width: 145
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1800
+        width: 145
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1800
+        width: 145
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1800
+        width: 145
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_4
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1800
+        width: 146
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_5
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1800
+        width: 146
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_6
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1800
+        width: 146
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_7
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1800
+        width: 146
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_8
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1800
+        width: 147
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_9
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1800
+        width: 147
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_10
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1800
+        width: 148
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_11
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1800
+        width: 148
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1550
+        width: 148
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1550
+        width: 149
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1550
+        width: 149
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1549
+        width: 150
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_16
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1549
+        width: 150
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1550
+        width: 152
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_18
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1550
+        width: 152
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_19
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1549
+        width: 153
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_20
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1549
+        width: 154
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_21
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1549
+        width: 154
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_22
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1549
+        width: 155
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_23
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1549
+        width: 156
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1299
+        width: 157
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1299
+        width: 158
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_26
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1299
+        width: 159
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1299
+        width: 160
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_28
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1299
+        width: 161
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_29
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1298
+        width: 161
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_30
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1298
+        width: 160
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_31
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1299
+        width: 160
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_32
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1298
+        width: 159
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_33
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1299
+        width: 158
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_34
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1299
+        width: 157
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_35
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1299
+        width: 156
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1049
+        width: 155
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1049
+        width: 154
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_38
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1050
+        width: 153
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_39
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1049
+        width: 152
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_40
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1050
+        width: 152
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_41
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1050
+        width: 151
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_42
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1050
+        width: 150
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_43
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1050
+        width: 150
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_44
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1050
+        width: 150
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_45
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1050
+        width: 150
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_46
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1050
+        width: 149
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_47
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1050
+        width: 148
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 800
+        width: 147
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_49
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 800
+        width: 147
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_50
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 800
+        width: 147
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_51
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 800
+        width: 146
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_52
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 800
+        width: 146
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_53
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 800
+        width: 146
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_54
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 800
+        width: 146
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_55
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 800
+        width: 146
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_56
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 800
+        width: 145
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_57
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 800
+        width: 145
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_58
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 800
+        width: 145
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingArm_59
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 800
+        width: 145
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,714 @@
+fileFormatVersion: 2
+guid: 698b61ad41ba1bb448d58fd697a12641
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BoxingHand
+    21300002: BoxingHand_0
+    21300004: BoxingHand_1
+    21300006: BoxingHand_2
+    21300008: BoxingHand_3
+    21300010: BoxingHand_4
+    21300012: BoxingHand_5
+    21300014: BoxingHand_6
+    21300016: BoxingHand_7
+    21300018: BoxingHand_8
+    21300020: BoxingHand_9
+    21300022: BoxingHand_10
+    21300024: BoxingHand_11
+    21300026: BoxingHand_12
+    21300028: BoxingHand_13
+    21300030: BoxingHand_14
+    21300032: BoxingHand_15
+    21300034: BoxingHand_16
+    21300036: BoxingHand_17
+    21300038: BoxingHand_18
+    21300040: BoxingHand_19
+    21300042: BoxingHand_20
+    21300044: BoxingHand_21
+    21300046: BoxingHand_22
+    21300048: BoxingHand_23
+    21300050: BoxingHand_24
+    21300052: BoxingHand_25
+    21300054: BoxingHand_26
+    21300056: BoxingHand_27
+    21300058: BoxingHand_28
+    21300060: BoxingHand_29
+    21300062: BoxingHand_30
+    21300064: BoxingHand_31
+    21300066: BoxingHand_32
+    21300068: BoxingHand_33
+    21300070: BoxingHand_34
+    21300072: BoxingHand_35
+    21300074: BoxingHand_36
+    21300076: BoxingHand_37
+    21300078: BoxingHand_38
+    21300080: BoxingHand_39
+    21300082: BoxingHand_40
+    21300084: BoxingHand_41
+    21300086: BoxingHand_42
+    21300088: BoxingHand_43
+    21300090: BoxingHand_44
+    21300092: BoxingHand_45
+    21300094: BoxingHand_46
+    21300096: BoxingHand_47
+    21300098: BoxingHand_48
+    21300100: BoxingHand_49
+    21300102: BoxingHand_50
+    21300104: BoxingHand_51
+    21300106: BoxingHand_52
+    21300108: BoxingHand_53
+    21300110: BoxingHand_54
+    21300112: BoxingHand_55
+    21300114: BoxingHand_56
+    21300116: BoxingHand_57
+    21300118: BoxingHand_58
+    21300120: BoxingHand_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BoxingHand_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1892
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1892
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1892
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1892
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1892
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_5
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1892
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_6
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1892
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_7
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1891
+        width: 99
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_8
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1891
+        width: 99
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1731
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1731
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1730
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_12
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1730
+        width: 100
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1730
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_14
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1730
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_15
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1730
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_16
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1730
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_17
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1729
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1568
+        width: 99
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1568
+        width: 99
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1568
+        width: 99
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_21
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1568
+        width: 99
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_22
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1568
+        width: 99
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_23
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1567
+        width: 98
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_24
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1567
+        width: 98
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_25
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1567
+        width: 99
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_26
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1567
+        width: 99
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1406
+        width: 99
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1405
+        width: 100
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1405
+        width: 100
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_30
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1405
+        width: 99
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_31
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1406
+        width: 99
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_32
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1406
+        width: 99
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_33
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1406
+        width: 99
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_34
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1406
+        width: 98
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_35
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1406
+        width: 98
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1246
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1246
+        width: 99
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1246
+        width: 99
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_39
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1246
+        width: 99
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_40
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1246
+        width: 99
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_41
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1246
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_42
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1246
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_43
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1247
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_44
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1247
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1086
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_46
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1086
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_47
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1086
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_48
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1086
+        width: 100
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_49
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1086
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_50
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1087
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_51
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1086
+        width: 99
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_52
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1086
+        width: 99
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_53
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1086
+        width: 99
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 926
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_55
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 926
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_56
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 926
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_57
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 926
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_58
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 926
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxingHand_59
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 926
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: 8c4111df209f9da4587dc1410d53e4e1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CartoonArm
+    21300002: CartoonArm_0
+    21300004: CartoonArm_1
+    21300006: CartoonArm_2
+    21300008: CartoonArm_3
+    21300010: CartoonArm_4
+    21300012: CartoonArm_5
+    21300014: CartoonArm_6
+    21300016: CartoonArm_7
+    21300018: CartoonArm_8
+    21300020: CartoonArm_9
+    21300022: CartoonArm_10
+    21300024: CartoonArm_11
+    21300026: CartoonArm_12
+    21300028: CartoonArm_13
+    21300030: CartoonArm_14
+    21300032: CartoonArm_15
+    21300034: CartoonArm_16
+    21300036: CartoonArm_17
+    21300038: CartoonArm_18
+    21300040: CartoonArm_19
+    21300042: CartoonArm_20
+    21300044: CartoonArm_21
+    21300046: CartoonArm_22
+    21300048: CartoonArm_23
+    21300050: CartoonArm_24
+    21300052: CartoonArm_25
+    21300054: CartoonArm_26
+    21300056: CartoonArm_27
+    21300058: CartoonArm_28
+    21300060: CartoonArm_29
+    21300062: CartoonArm_30
+    21300064: CartoonArm_31
+    21300066: CartoonArm_32
+    21300068: CartoonArm_33
+    21300070: CartoonArm_34
+    21300072: CartoonArm_35
+    21300074: CartoonArm_36
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CartoonArm_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1654
+        width: 166
+        height: 393
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1654
+        width: 167
+        height: 393
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1654
+        width: 167
+        height: 393
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_3
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1654
+        width: 169
+        height: 393
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_4
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1654
+        width: 170
+        height: 392
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1655
+        width: 172
+        height: 391
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_6
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1655
+        width: 173
+        height: 391
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_7
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1655
+        width: 176
+        height: 391
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_8
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1656
+        width: 179
+        height: 389
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1262
+        width: 183
+        height: 388
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1263
+        width: 187
+        height: 386
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1264
+        width: 190
+        height: 385
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_12
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1264
+        width: 191
+        height: 384
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_13
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1265
+        width: 194
+        height: 383
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_14
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1271
+        width: 198
+        height: 375
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_15
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1269
+        width: 201
+        height: 377
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_16
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1266
+        width: 204
+        height: 380
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_17
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1267
+        width: 210
+        height: 379
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 869
+        width: 204
+        height: 375
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 872
+        width: 208
+        height: 375
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_20
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 874
+        width: 211
+        height: 376
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_21
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 874
+        width: 213
+        height: 373
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_22
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 877
+        width: 209
+        height: 368
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_23
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 873
+        width: 210
+        height: 381
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_24
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 872
+        width: 207
+        height: 382
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_25
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 872
+        width: 207
+        height: 383
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_26
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 871
+        width: 202
+        height: 384
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 476
+        width: 199
+        height: 386
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 476
+        width: 194
+        height: 387
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_29
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 475
+        width: 190
+        height: 388
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_30
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 475
+        width: 187
+        height: 389
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_31
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 474
+        width: 184
+        height: 390
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_32
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 474
+        width: 180
+        height: 391
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_33
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 473
+        width: 177
+        height: 392
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_34
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 473
+        width: 172
+        height: 392
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_35
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 473
+        width: 170
+        height: 392
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CartoonArm_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 78
+        width: 166
+        height: 393
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

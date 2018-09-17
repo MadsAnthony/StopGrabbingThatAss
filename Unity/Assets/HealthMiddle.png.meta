@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: 82761ae4a0ce00042a392921ed0fe39b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HealthMiddle
+    21300002: HealthMiddle_0
+    21300004: HealthMiddle_1
+    21300006: HealthMiddle_2
+    21300008: HealthMiddle_3
+    21300010: HealthMiddle_4
+    21300012: HealthMiddle_5
+    21300014: HealthMiddle_6
+    21300016: HealthMiddle_7
+    21300018: HealthMiddle_8
+    21300020: HealthMiddle_9
+    21300022: HealthMiddle_10
+    21300024: HealthMiddle_11
+    21300026: HealthMiddle_12
+    21300028: HealthMiddle_13
+    21300030: HealthMiddle_14
+    21300032: HealthMiddle_15
+    21300034: HealthMiddle_16
+    21300036: HealthMiddle_17
+    21300038: HealthMiddle_18
+    21300040: HealthMiddle_19
+    21300042: HealthMiddle_20
+    21300044: HealthMiddle_21
+    21300046: HealthMiddle_22
+    21300048: HealthMiddle_23
+    21300050: HealthMiddle_24
+    21300052: HealthMiddle_25
+    21300054: HealthMiddle_26
+    21300056: HealthMiddle_27
+    21300058: HealthMiddle_28
+    21300060: HealthMiddle_29
+    21300062: HealthMiddle_30
+    21300064: HealthMiddle_31
+    21300066: HealthMiddle_32
+    21300068: HealthMiddle_33
+    21300070: HealthMiddle_34
+    21300072: HealthMiddle_35
+    21300074: HealthMiddle_36
+    21300076: HealthMiddle_37
+    21300078: HealthMiddle_38
+    21300080: HealthMiddle_39
+    21300082: HealthMiddle_40
+    21300084: HealthMiddle_41
+    21300086: HealthMiddle_42
+    21300088: HealthMiddle_43
+    21300090: HealthMiddle_44
+    21300092: HealthMiddle_45
+    21300094: HealthMiddle_46
+    21300096: HealthMiddle_47
+    21300098: HealthMiddle_48
+    21300100: HealthMiddle_49
+    21300102: HealthMiddle_50
+    21300104: HealthMiddle_51
+    21300106: HealthMiddle_52
+    21300108: HealthMiddle_53
+    21300110: HealthMiddle_54
+    21300112: HealthMiddle_55
+    21300114: HealthMiddle_56
+    21300116: HealthMiddle_57
+    21300118: HealthMiddle_58
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HealthMiddle_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4057
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4010
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3963
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3916
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3869
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3822
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3775
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3728
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3681
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3634
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3587
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3540
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3493
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3446
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3399
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3352
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3305
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3258
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3211
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3164
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3117
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3070
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3023
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2976
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2929
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2882
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2835
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2788
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2741
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2694
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2647
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2600
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2553
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2506
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2459
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2412
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2365
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2318
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2271
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2224
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2177
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2130
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2083
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2036
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1989
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1942
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1895
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1848
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1801
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1754
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1707
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1660
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1613
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1566
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1519
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1472
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1425
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1378
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HealthMiddle_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1331
+        width: 273
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
